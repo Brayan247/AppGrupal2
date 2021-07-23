@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppGrupal-2</string>
+    <string name="titulo">Grupal 2- Brayan Chamico, Pablo Abrigo</string>
+    <string name="nombreapp">Conversion de Grados de temperatura</string>
+    <string name="ejercicio">Ingrese la cantidad de grados Centigrados que desea convertir</string>
+    <string-array name="opciones">
+        <item>Farenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string name="selecciongrados">Seleccione a que desea convertir</string>
+</resources>
